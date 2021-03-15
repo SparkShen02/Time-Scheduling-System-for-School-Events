@@ -19,4 +19,4 @@ In the final product, teachers only need to give essential information about the
 In the future, I hope to apply Machine Learning to allow the system to automatically recommend a time-slot based on previous data about similar events.
 
 ## Paper
-I upload a paper I wrote that summarizes everything I did for this project. It has detailed descriptions of my development and testing process. It introduces and explains every feature of the system, with screenshots and some source codes. It also displays the final webpages.
+I uploaded a paper that summarizes everything I did for this project. It has detailed descriptions of my development and testing process. It introduces and explains every feature of the system, with screenshots and some source codes. It also displays the final webpages.
